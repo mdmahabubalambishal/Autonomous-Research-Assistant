@@ -1,5 +1,5 @@
 ---
-title: QueryMind AI
+title: Autonomous Research Agent
 emoji: 🧠
 colorFrom: blue
 colorTo: purple
@@ -12,7 +12,7 @@ license: mit
 
 <div align="center">
 
-# 🧠 QueryMind-AI
+# 🧠 Autonomous Research Agent
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Intelligent+AI+Research+Assistant;LangGraph+%7C+Groq+%7C+Streamlit;Web+Search+%7C+Wikipedia+%7C+PDF+Analysis;Bengali+%F0%9F%87%A7%F0%9F%87%A9+%7C+English+%F0%9F%87%AC%F0%9F%87%A7+Support" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@ license: mit
 <br>
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge)](https://huggingface.co/spaces/mahabub-unlocked/QueryMind-AI)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdmahabubalambishal/QueryMind-AI)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdmahabubalambishal/Autonomous Research Agent)
 [![LinkedIn](https://img.shields.io/badge/👤_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mahabub-alam-bishal/)
 
 <br>
@@ -42,7 +42,7 @@ license: mit
 
 ## 🎯 Project Overview
 
-QueryMind-AI হল একটি AI-powered research assistant যা তিনটা powerful tool ব্যবহার করে —
+Autonomous Research Agent হল একটি AI-powered research assistant যা তিনটা powerful tool ব্যবহার করে —
 
 **Web Search** — DuckDuckGo দিয়ে real-time internet search  
 **Wikipedia Analysis** — যেকোনো বিষয়ে Wikipedia থেকে বিস্তারিত তথ্য  
@@ -130,7 +130,7 @@ User Query (Bengali / English)
 
 ## 📁 Project Structure
 ```
-QueryMind-AI/
+Autonomous Research Agent/
 │
 ├── 📄 app.py               # Streamlit UI & main application
 ├── 🤖 agent.py             # LangGraph ReAct agent setup
@@ -155,8 +155,8 @@ Groq API Key → groq.com (Free)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/mdmahabubalambishas/QueryMind-AI.git
-cd QueryMind-AI
+git clone https://github.com/mdmahabubalambishas/Autonomous Research Agent.git
+cd Autonomous Research Agent
 ```
 
 **2. Create virtual environment**
@@ -373,6 +373,6 @@ This project is licensed under the MIT License.
 *Made with ❤️ by Mahabub*
 
 **Live Demo:** [huggingface.co/spaces/mahabub-unlocked/QueryMind-AI](https://huggingface.co/spaces/mahabub-unlocked/QueryMind-AI)  
-**GitHub:** [github.com/mdmahabubalambishal/QueryMind-AI](https://github.com/mdmahabubalambishal/QueryMind-AI)
+**GitHub:** [github.com/mdmahabubalambishal/QueryMind-AI](https://github.com/mdmahabubalambishal/Autonomous Research Agent)
 
 </div>
