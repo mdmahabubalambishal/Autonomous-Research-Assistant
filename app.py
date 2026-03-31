@@ -39,7 +39,16 @@ st.markdown("""
 
 # ── Main Header ──────────────────────────────────────
 st.markdown("""
-    <h1 style='text-align: center;'>🤖 AI Research Assistant</h1>
+    <h1 style='text-align: center; 
+               background: linear-gradient(90deg, #667eea, #764ba2);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-clip: text;
+               color: transparent;
+               font-size: 2.5rem;
+               font-weight: 800;'>
+        🤖 AI Research Assistant
+    </h1>
     <p style='text-align: center; color: gray;'>Powered by LangGraph • Groq • LLaMA 3.3 70B</p>
 """, unsafe_allow_html=True)
 
