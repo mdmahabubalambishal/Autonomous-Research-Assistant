@@ -39,17 +39,19 @@ st.markdown("""
 
 # ── Main Header ──────────────────────────────────────
 st.markdown("""
-    <h1 style='text-align: center; 
-               background: linear-gradient(90deg, #667eea, #764ba2);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               background-clip: text;
-               color: transparent;
-               font-size: 2.5rem;
-               font-weight: 800;'>
-        🤖 AI Research Assistant
-    </h1>
-    <p style='text-align: center; color: gray;'>Powered by LangGraph • Groq • LLaMA 3.3 70B</p>
+    <div style='text-align: center; padding: 20px 0;'>
+        <span style='
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: #667eea;
+            text-shadow: 2px 2px 4px rgba(102,126,234,0.3);
+            letter-spacing: -1px;
+        '>🤖 AI Research Assistant</span>
+        <br/>
+        <span style='color: #888; font-size: 0.95rem; margin-top: 8px; display: block;'>
+            Powered by LangGraph • Groq • LLaMA 3.3 70B
+        </span>
+    </div>
 """, unsafe_allow_html=True)
 
 # ── Session State ───────────────────────────────────
